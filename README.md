@@ -1,5 +1,5 @@
 # hello-world
-This is a **short** description.
+This is a **short** description.  
 Is it possible to add a table in Markdown?  
 Like this:
 
