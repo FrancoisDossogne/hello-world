@@ -1,6 +1,6 @@
 # hello-world
-This is a short description.
-Is it possible to add a table in Markdown?
+This is a short **description**.  
+Is it possible to add a table in Markdown?  
 Like this:
 
 |A|B|C|D|
